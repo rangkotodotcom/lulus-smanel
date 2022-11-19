@@ -1,0 +1,9 @@
+table tr input[type=text]{
+	width: 300px;
+}
+table tr input[type=password]{
+	width: 300px;
+}
+table tr input[type=date]{
+	width: 300px;
+}
